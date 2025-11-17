@@ -3,4 +3,4 @@
 	url = git@github-rajan-leemo:rajan-leemo/child_2.git
 [submodule "childrens/child"]
 	path = childrens/child
-	url = git@github.com:rajan-leemo/child.git
+	url = git@github-rajan-leemo:rajan-leemo/child.git
